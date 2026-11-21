@@ -1,0 +1,2 @@
+<?php require_once __DIR__.'/includes/bootstrap.php';require_login();$pageTitle='حساب کاربری';include __DIR__.'/includes/header.php';?>
+<main class="page-content container"><div class="form-wrap"><h1>سلام <?=e($_SESSION['user']['name'])?> 🌹</h1><p>به حساب کاربری رُزآرا خوش آمدید.</p><p>ایمیل: <?=e($_SESSION['user']['email'])?></p><a class="btn btn-outline" href="orders.php">سفارش‌های من</a> <a class="btn btn-primary" href="logout.php">خروج از حساب</a></div></main><?php include __DIR__.'/includes/footer.php';?>

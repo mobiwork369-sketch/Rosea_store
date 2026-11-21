@@ -1,0 +1,2 @@
+<?php require_once __DIR__.'/includes/bootstrap.php';$pageTitle='تماس با رُزآرا';include __DIR__.'/includes/header.php';?>
+<main class="page-content"><div class="form-wrap"><h1>ارتباط با رُزآرا</h1><p>برای پیگیری سفارش و پرسش‌های مربوط به محصولات از راه‌های زیر با ما در ارتباط باشید.</p><p>☎ ۰۲۱-۱۲۳۴۵۶۷۸</p><p>✉ info@roseara.ir</p><p>ساعات پاسخ‌گویی: شنبه تا پنجشنبه، ۹ تا ۱۸</p><p>نشانی: تهران، خیابان نمونه، پلاک ۱۲۳</p></div></main><?php include __DIR__.'/includes/footer.php';?>
